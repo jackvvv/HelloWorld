@@ -61,7 +61,6 @@ public class MainActivity extends AppCompatActivity
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
-        // Handle action bar item clicks here. The action bar will
         int id = item.getItemId();
 
         if (id == R.id.action_settings) {
